@@ -26,6 +26,7 @@ Maintained by practitioners, for practitioners. Every entry earns its place by b
 
 - [AI Incident Database](https://incidentdatabase.ai/) — The long-running general registry of AI harms.
 - [AI Agent Incident Tracker](https://shankarmurali.github.io/ai-agent-incidents/) — Structured, sourced records of agentic failures: destructive actions, injection exploits, supply-chain compromises.
+- [Orca AI Incident Archive](https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive) — Open (CC BY 4.0) database of 354 sourced AI agent security records that flags confirmed harm and AI involvement separately, so defenders can tell real incidents from demos.
 
 ## Foundational Research
 
