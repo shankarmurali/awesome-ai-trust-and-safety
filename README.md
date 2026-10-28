@@ -77,6 +77,7 @@ Maintained by practitioners, for practitioners. Every entry earns its place by b
 
 - [About-Fraud](https://about-fraud.com/) — Practitioner community and vendor landscape for anti-fraud.
 - [Journal of Online Trust and Safety](https://tsjournal.org/) — Peer-reviewed research on online abuse and platform integrity.
+- [ShieldLabs Anonymity Checker](https://demo.shieldlabs.ai/anonymity-checker) — Free current-browser diagnostic showing device identifiers, a risk score, and VPN, proxy, Tor and bot signals; useful when testing signup-abuse controls.
 
 ## Contributing
 
